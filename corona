@@ -1,12 +1,7 @@
 [
   {
-    "activecase": 3460, 
-    "cases": 81340, 
+    "cases": 3629, 
     "cntry": "Türkiye", 
-    "critical": 1034, 
-    "death": 3292, 
-    "recovered": 74588, 
-    "todaycase": 55, 
-    "todaydeath": 5
+    "death": 75
   }
 ]
