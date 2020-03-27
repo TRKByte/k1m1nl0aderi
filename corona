@@ -2,15 +2,15 @@
   {
     "hasta": 556634, 
     "ulke": "Dünyada CoronaVirus", 
-    "ohasta": 402494, 
-    "khasta": 128895,
-    "olen": 25245
+    "ohasta": "402494 / %72.3", 
+    "khasta": "128895 / %23.2%",
+    "olen": "25245 / %4.5%"
   }, 
   {
     "hasta": 3629, 
     "ulke": "Türkiye", 
-    "ohasta": 3528, 
-    "khasta": 26,
-    "olen": 75
+    "ohasta": "3528 / %97.2", 
+    "khasta": "26 / %0.7",
+    "olen": "75 / %2.1"
   }
 ]
